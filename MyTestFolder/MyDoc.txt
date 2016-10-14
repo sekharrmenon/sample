@@ -1,0 +1,1 @@
+creating a new git repository and adding a new file to the repository
